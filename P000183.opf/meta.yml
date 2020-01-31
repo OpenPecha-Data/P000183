@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: གཉུག་སེམས་སྐོར་གསུམ་གཞུང་སྤྱིའི་དཀའ་ནད་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།
+  sku: SHE-019
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Cycles of Teachings on the Clear-Light Nature of Mind and Difficult Points
+      on General Teaching
+    bo: གཉུག་སེམས་སྐོར་གསུམ་དང་གཞུང་སྤྱིའི་དཀའ་གནད་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 19
+    bo: ''
+  author:
+    en: Jamgon Mipham Gyatso
+    bo: འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-019
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-019.epub
+  description:
+    en: ''
+    bo: ''
