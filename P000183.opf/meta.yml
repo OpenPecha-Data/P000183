@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000183
+initial_creation_type: ebook
+source_metadata:
   title: གཉུག་སེམས་སྐོར་གསུམ་གཞུང་སྤྱིའི་དཀའ་ནད་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།
-  sku: SHE-019
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-019
 web_metadata:
   title:
     en: The Cycles of Teachings on the Clear-Light Nature of Mind and Difficult Points
